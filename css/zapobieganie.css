@@ -1,0 +1,22 @@
+p{
+  text-align: justify;
+  text-indent: 2px;;
+}
+
+.burnout{
+  display:block;
+  margin:auto;
+}
+
+.burnout1{
+  width:70%;
+  height:auto;
+  display:block;
+  margin:auto;
+}
+
+ .phrase{
+  font-size: 20px;
+  font-style:italic;
+  text-align: center;
+}

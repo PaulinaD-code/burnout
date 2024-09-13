@@ -1,0 +1,36 @@
+p{
+  text-align: justify;
+  text-indent: 2px;;
+}
+
+.burnout{
+  display:block;
+  margin:auto;
+}
+
+.burnout1{
+  width:70%;
+  height: auto;
+  display:block;
+  margin:auto;
+}
+
+.phrase{
+  font-size: 20px;
+  font-style:italic;
+  text-align: center;
+}
+
+@media (max-width: 600px){
+  .burnout{
+    width:50%;
+    height: auto;
+  }
+}
+
+@media (min-width: 601px) and (max-width:1000px){
+  .burnout{
+    width:70%;
+    height: auto;
+  }
+}
